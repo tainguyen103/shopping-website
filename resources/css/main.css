@@ -1,0 +1,60 @@
+h2,h3,p{
+    font-family: Helvetica;
+    text-align: left;
+    font-size: 40px;
+}
+
+h1{
+    font-family: Helvetica;
+    text-align: center;
+    font-size: 100px;
+    font-weight: bold;
+    color: black;
+    background-image: url("https://drive.google.com/file/d/19DezTiJujDj5_JT805nW99HrdZFmZ5oh/view?usp=share_link");
+}
+
+nav{
+    font-family: Helvetica;
+    text-align: left;
+    font-size: 50px;
+}
+
+.story{
+    text-align: center;
+    font-size: 40px;
+}
+
+#black{
+    font-family: Helvetica;
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+
+#blue{
+    font-family: Helvetica;
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+    background-color: skyblue;
+}
+
+#pink{
+    font-family: Helvetica;
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+    background-color: pink;
+}
+
+
+.price {
+    font-weight: bold;
+    font-size: 50px;
+    color: blue;
+    font-family: Helvetica;
+  }
